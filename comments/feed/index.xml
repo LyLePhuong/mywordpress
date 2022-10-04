@@ -10,8 +10,8 @@
 	Bình luận cho trangwebLP	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lylephuong.github.io/mywordpresss</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 12 Sep 2022 03:23:52 +0000</lastBuildDate>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 03 Oct 2022 11:20:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,11 +19,11 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>https://lylephuong.github.io/mywordpresss/2022/09/12/chao-moi-nguoi/#comment-1</link>
+		Phản hồi cho Hello world! bởi A WordPress Commenter		</title>
+		<link>https://lylephuong.github.io/mywordpresss/2022/10/03/hello-world/#comment-1</link>
 
-		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
-		<pubDate>Mon, 12 Sep 2022 03:23:52 +0000</pubDate>
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 11:20:42 +0000</pubDate>
 		<guid isPermaLink="false">https://lylephuong.github.io/mywordpresss/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.

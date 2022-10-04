@@ -11,8 +11,8 @@
 	<title>lylephuong &#8211; trangwebLP</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/lylephuong/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lylephuong.github.io/mywordpresss</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 12 Sep 2022 03:23:52 +0000</lastBuildDate>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 03 Oct 2022 11:20:42 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,21 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Chào tất cả mọi người!</title>
-		<link>https://lylephuong.github.io/mywordpresss/2022/09/12/chao-moi-nguoi/</link>
-					<comments>https://lylephuong.github.io/mywordpresss/2022/09/12/chao-moi-nguoi/#comments</comments>
+		<title>Hello world!</title>
+		<link>https://lylephuong.github.io/mywordpresss/2022/10/03/hello-world/</link>
+					<comments>https://lylephuong.github.io/mywordpresss/2022/10/03/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[lylephuong]]></dc:creator>
-		<pubDate>Mon, 12 Sep 2022 03:23:52 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
+		<pubDate>Mon, 03 Oct 2022 11:20:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://lylephuong.github.io/mywordpresss/?p=1</guid>
 
-					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của &#8230;]]></description>
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
-<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lylephuong.github.io/mywordpresss/2022/09/12/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lylephuong.github.io/mywordpresss/2022/10/03/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
