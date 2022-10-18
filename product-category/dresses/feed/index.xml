@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dresses &#8211; trangwebLP</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/dresses/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lylephuong.github.io/mywordpresss</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 18 Oct 2022 13:21:08 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Hummingbird printed sweater</title>
+		<link>https://lylephuong.github.io/mywordpresss/product/hummingbird-printed-sweater/</link>
+					<comments>https://lylephuong.github.io/mywordpresss/product/hummingbird-printed-sweater/#respond</comments>
+		
+		<dc:creator><![CDATA[lylephuong]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 12:34:48 +0000</pubDate>
+				<guid isPermaLink="false">https://lylephuong.github.io/mywordpresss/?post_type=product&#038;p=557</guid>
+
+					<description><![CDATA[<div id="product-description-short-2" class="description-short">
+
+Regular fit, round neckline, long sleeves. 100% cotton, brushed inner side for extra comfort.
+
+</div>
+<div class="leo-more-cdown in_detail" data-idproduct="2"></div>
+<div class="size-guide"><button class="show_sizechart btn btn-default" type="button">Size Guide</button></div>
+<div class="product-actions"><form id="add-to-cart-or-refresh" action="https://demo74.leotheme.com/prestashop/at_fashionstyle_demo/en/cart" method="post">
+<div class="product-variants js-product-variants">
+<div class="clearfix product-variants-item"></div>
+</div>
+</form></div>]]></description>
+										<content:encoded><![CDATA[<p>Studio Design&#8217; PolyFaune collection features classic products with colorful patterns, inspired by the traditional japanese origamis. To wear with a chino or jeans. The sublimation textile printing process provides an exceptional color rendering and a color, guaranteed overtime.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lylephuong.github.io/mywordpresss/product/hummingbird-printed-sweater/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
