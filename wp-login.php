@@ -49,7 +49,7 @@ wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
 			<a href="https://lylephuong.github.io/mywordpresss/">&larr; Quay lại trangwebLP</a>		</p>
-			</div>
+		<div class="privacy-policy-page-link"><a class="privacy-policy-link" href="https://lylephuong.github.io/mywordpresss/privacy-policy/">Privacy Policy</a></div>	</div>
 				<div class="language-switcher">
 				<form id="language-switcher" action="" method="get">
 
@@ -89,7 +89,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://lylephuong.github.io/mywordpresss/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://lylephuong.github.io/mywordpresss/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"6d3abf9043"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"e32f2618e0"};</script>
 <script id="user-profile-js-translations">( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
